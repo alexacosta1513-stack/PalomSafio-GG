@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CustomSkinLoader-Common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/1.21.1/minecraft/CustomSkinLoader/Core/CustomSkinLoader-Common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
