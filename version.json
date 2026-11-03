@@ -1,5 +1,5 @@
 {
-  "version": "1.5",
+  "version": "1.6",
   "download_url": "https://github.com/alexacosta1513-stack/PalomSafio-GG/releases/download/v.1.5/palomsafio-launcher-2.0.0.jar",
-  "notes": "Sistema de logs para diagnostico"
+  "notes": "Version estable con logs y fix de actualizacion"
 }
