@@ -1,5 +1,5 @@
 {
-  "version": "1.3",
-  "download_url": "https://github.com/alexacosta1513-stack/PalomSafio-GG/releases/download/v.1.3/palomsafio-launcher-2.0.0.jar",
-  "notes": "Fix actualizacion - descarga en temp y reemplaza sin error de archivo en uso"
+  "version": "1.4",
+  "download_url": "https://github.com/alexacosta1513-stack/PalomSafio-GG/releases/download/v.1.4/palomsafio-launcher-2.0.0.jar",
+  "notes": "Fix actualizacion sin bucle ni ventana CMD"
 }
