@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
-  "download_url": "https://github.com/alexacosta1513-stack/PalomSafio-GG/releases/download/v.1.1/palomsafio-launcher-2.0.0.jar",
-  "notes": "Fix UUID Ely.by y busqueda de instancia en cualquier PC"
+  "version": "1.2",
+  "download_url": "https://github.com/alexacosta1513-stack/PalomSafio-GG/releases/download/v.1.2/palomsafio-launcher-2.0.0.jar",
+  "notes": "Fix actualizacion automatica - ya no pide update en loop"
 }
